@@ -3,9 +3,24 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha",
+    "build":"echo 'Running Build scripts'"
   },
-  "author": "",
+  "author": "subbu",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subbuchatla/jenkins-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/subbuchatla/jenkins-node/issues"
+  },
+  "homepage": "https://github.com/subbuchatla/jenkins-node#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
 }
