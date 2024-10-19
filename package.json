@@ -9,8 +9,6 @@
   },
   "author": "",
   "license": "ISC"
-  "dependencies": {
-  "express": "^4.17.1" // version may vary
-}
+ 
 
 }
