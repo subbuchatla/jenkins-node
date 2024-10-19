@@ -1,8 +1,10 @@
 {
   "name": "apps",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "mocha",
     "build":"echo 'Running Build scripts'"
   },
@@ -23,4 +25,13 @@
   "devDependencies": {
     "mocha": "^10.7.3"
   }
+=======
+    "test": "echo \"Running tests...\" && exit 0",
+    "build": "echo \"Building the project...\""
+  },
+  "author": "",
+  "license": "ISC"
+ 
+
+>>>>>>> e13c8351373ebfd63c1e8c0ea0024e77e308367e
 }
