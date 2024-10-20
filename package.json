@@ -1,37 +1,14 @@
 {
-  "name": "apps",
+  "name": "java-proj",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "mocha",
-    "build":"echo 'Running Build scripts'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "subbu",
+  "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/subbuchatla/jenkins-node.git"
-  },
-  "bugs": {
-    "url": "https://github.com/subbuchatla/jenkins-node/issues"
-  },
-  "homepage": "https://github.com/subbuchatla/jenkins-node#readme",
   "description": "",
   "dependencies": {
     "express": "^4.21.1"
-  },
-  "devDependencies": {
-    "mocha": "^10.7.3"
   }
-=======
-    "test": "echo \"Running tests...\" && exit 0",
-    "build": "echo \"Building the project...\""
-  },
-  "author": "",
-  "license": "ISC"
- 
-
->>>>>>> e13c8351373ebfd63c1e8c0ea0024e77e308367e
 }
